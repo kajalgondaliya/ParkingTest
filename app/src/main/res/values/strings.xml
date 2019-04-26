@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ParkingSystem</string>
+
+    <string name="something_went_wrong">Oops! Something went wrong!</string>
+    <string name="internet_connection_error">Please check your internet connection.</string>
+    <string name="parking_system">Parking System</string>
+    <string name="img_path">https://maps.googleapis.com/maps/api/place/photo?maxwidth=100&amp;photoreference=%1$s&amp;key=%2$s</string>
+    <string name="map">Map</string>
+    <string name="history">Parking history</string>
+    <string name="disable_location">Disable fictitious location</string>
+    <string name="server_key">AIzaSyDO_Y_V7nN-ej0-0d4-OC59kEpkFtBax4Q</string>
+    <string name="show_list">Show list</string>
+    <string name="enter_place_here">Enter Place Here</string>
+    <string name="vehicle_out_of_park">Vehicle out of parking</string>
+    <string name="vehicle_park">Vehicle Parked</string>
+    <string name="no_record_found">No record found.</string>
+</resources>
